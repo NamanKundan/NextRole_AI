@@ -79,8 +79,8 @@ graph LR
 
 ```bash
 # Clone repository
-git clone https://github.com/KshitizCodeHub/NextRole-AI.git
-cd NextRole-AI
+git clone https://github.com/NamanKundan/NextRole_AI.git
+cd NextRole_AI
 
 # Install dependencies
 pip install -r requirements.txt
@@ -175,8 +175,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/KshitizCodeHub/NextRole-AI/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/KshitizCodeHub/NextRole-AI/discussions)
+- **Issues:** [GitHub Issues](https://github.com/NamanKundan/NextRole_AI/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/NamanKundan/NextRole_AI/discussions)
 
 ---
 
@@ -184,7 +184,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 Built with: Google Gemini 2.5, Streamlit, LangChain, News API, Alpha Vantage
 
-**Created by:** [Kshitiz](https://github.com/KshitizCodeHub)
+**Created by:** [Naman](https://github.com/NamanKundan)
 
 ---
 
@@ -192,6 +192,6 @@ Built with: Google Gemini 2.5, Streamlit, LangChain, News API, Alpha Vantage
 
 **NextRole AI** © 2024 | MIT License
 
-[Live Demo](https://nextrole-ai.streamlit.app/) • [GitHub](https://github.com/KshitizCodeHub/NextRole-AI)
+[Live Demo](https://nextrole-ai.streamlit.app/) • [GitHub](https://github.com/NamanKundan/NextRole_AI)
 
 </div>
