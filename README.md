@@ -192,6 +192,6 @@ Built with: Google Gemini 2.5, Streamlit, LangChain, News API, Alpha Vantage
 
 **NextRole AI** © 2024 | MIT License
 
-[Live Demo](https://nextrole-ai.streamlit.app/) • [GitHub](https://github.com/NamanKundan/NextRole_AI)
+[Live Demo](https://next-role-ai.streamlit.app/) • [GitHub](https://github.com/NamanKundan/NextRole_AI)
 
 </div>
