@@ -9,7 +9,7 @@
 [![Google Gemini](https://img.shields.io/badge/google_gemini-AI-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
 [![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
-[Live Demo](https://nextrole-ai.streamlit.app/) • [Documentation](#documentation) • [Contributing](#contributing)
+[Live Demo](https://next-role-ai.streamlit.app/) • [Documentation](#documentation) • [Contributing](#contributing)
 
 </div>
 
