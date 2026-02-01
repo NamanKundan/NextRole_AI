@@ -159,7 +159,7 @@ NextRole_AI/
 
 ## Contributing
 
-Contributions welcome! Fork the repository, create a feature branch, and submit a pull request.
+Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
 
 **Areas:** UI/UX improvements, API integrations, AI features, documentation, bug fixes
 
